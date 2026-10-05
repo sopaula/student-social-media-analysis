@@ -8,6 +8,8 @@ The project combines data processing, visualisation and simple analytical modell
 
 The dataset comes from Kaggle:
 
+https://www.kaggle.com/datasets/zahranusratt/student-social-media-addiction-analysis-dataset
+
 **Student Social Media Addiction Analysis Dataset**
 
 It contains data for **705 students** and includes information such as:
